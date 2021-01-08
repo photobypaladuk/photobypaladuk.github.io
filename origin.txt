@@ -1,0 +1,288 @@
+Uri: https://www.oprisco.com/
+File Name: c:\Downloaded Web Sites\www.oprisco.com\index.htm
+Content Type: text/html
+
+Uri: https://static2.format.com/static/vid_overlay-b935013b5cebeedb8f5d5f3e7b0c48ee08c556e2db6888045b216f172195e632.png
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\vid_overlay-b935013b5cebeedb8f5d5f3e7b0c48ee08c556e2db6888045b216f172195e632.png
+Content Type: image/png
+
+Uri: https://static0.format.com/static/heart-fdbd4f0c82adfe04d7251886935bf91ac9a3948c951353b40cf519eb034bcf6f.svg
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\heart-fdbd4f0c82adfe04d7251886935bf91ac9a3948c951353b40cf519eb034bcf6f.svg
+Content Type: image/svg+xml
+
+Uri: https://static0.format.com/static/left-balloon-ellipses-9b27c618ded2344503f9ff2c3022152ef29618b6fde3931dabc5f07b1d92e8a6.svg
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\left-balloon-ellipses-9b27c618ded2344503f9ff2c3022152ef29618b6fde3931dabc5f07b1d92e8a6.svg
+Content Type: image/svg+xml
+
+Uri: https://static2.format.com/static/g024_computer_icon-1353da85caca09c6b2a1b5dba851ece8f6c48abacfbc87a75eea2b63e4a72729.svg
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\g024_computer_icon-1353da85caca09c6b2a1b5dba851ece8f6c48abacfbc87a75eea2b63e4a72729.svg
+Content Type: image/svg+xml
+
+Uri: https://static0.format.com/static/g024_close_icon-14b56df6978661077225d9afd540dba457eb66a919718b90d3c1cff876c4e119.svg
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\g024_close_icon-14b56df6978661077225d9afd540dba457eb66a919718b90d3c1cff876c4e119.svg
+Content Type: image/svg+xml
+
+Uri: https://static2.format.com/static/theme_api/v1/hosted_fonts-eb726384a2140ff00e23f669c05ec8f0e6cdd3bebab581a38dbe829184a2aa4f.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v1\hosted_fonts-eb726384a2140ff00e23f669c05ec8f0e6cdd3bebab581a38dbe829184a2aa4f.css
+Content Type: text/css
+
+Uri: https://static1.format.com/static/theme_api/vendor/webtype_fonts.min-51d9b9edb8f956fb39da113609d790ba607fa4fbda053af8e378bb9233ef4a39.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\vendor\webtype_fonts.min-51d9b9edb8f956fb39da113609d790ba607fa4fbda053af8e378bb9233ef4a39.css
+Content Type: text/css
+
+Uri: https://format-com-cld-res.cloudinary.com/image/upload/s--mj__Ez5k--/c_limit,g_center,h_16,w_16/fl_keep_iptc.progressive,q_95/123576-6926041-Untitled-2.ico
+File Name: c:\Downloaded Web Sites\www.oprisco.com\image\upload\s--mj__Ez5k--\c_limit,g_center,h_16,w_16\fl_keep_iptc.progressive,q_95\123576-6926041-Untitled-2.ico
+Content Type: image/x-icon
+
+Uri: https://format-com-cld-res.cloudinary.com/image/upload/s--Ny-RChzJ--/c_limit,g_center,h_16,w_16/fl_keep_iptc.progressive.apng/123576-6926041-Untitled-2.png
+File Name: c:\Downloaded Web Sites\www.oprisco.com\image\upload\s--Ny-RChzJ--\c_limit,g_center,h_16,w_16\fl_keep_iptc.progressive.apng\123576-6926041-Untitled-2.png
+Content Type: image/png
+
+Uri: https://format-com-cld-res.cloudinary.com/image/upload/s--dxZF5meA--/c_limit,g_center,h_32,w_32/fl_keep_iptc.progressive.apng/123576-6926041-Untitled-2.png
+File Name: c:\Downloaded Web Sites\www.oprisco.com\image\upload\s--dxZF5meA--\c_limit,g_center,h_32,w_32\fl_keep_iptc.progressive.apng\123576-6926041-Untitled-2.png
+Content Type: image/png
+
+Uri: https://format-com-cld-res.cloudinary.com/image/upload/s--T5inNbTW--/c_limit,g_center,h_96,w_96/fl_keep_iptc.progressive.apng/123576-6926041-Untitled-2.png
+File Name: c:\Downloaded Web Sites\www.oprisco.com\image\upload\s--T5inNbTW--\c_limit,g_center,h_96,w_96\fl_keep_iptc.progressive.apng\123576-6926041-Untitled-2.png
+Content Type: image/png
+
+Uri: https://format-com-cld-res.cloudinary.com/image/upload/s--4L6Luz3w--/c_limit,g_center,h_192,w_192/fl_keep_iptc.progressive.apng/123576-6926041-Untitled-2.png
+File Name: c:\Downloaded Web Sites\www.oprisco.com\image\upload\s--4L6Luz3w--\c_limit,g_center,h_192,w_192\fl_keep_iptc.progressive.apng\123576-6926041-Untitled-2.png
+Content Type: image/png
+
+Uri: https://static0.format.com/static/theme_api/v2/share_panel-1a26721acae26eabd7c32296e2ee8cf053d1a1a8d9f7c49f0df899bc27b784c1.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\share_panel-1a26721acae26eabd7c32296e2ee8cf053d1a1a8d9f7c49f0df899bc27b784c1.css
+Content Type: text/css
+
+Uri: https://static1.format.com/static/theme_api/v1/protected_images-2fdc6f85260105ac58908b513a09aa9c124e2007c6d4cbe63b3778f16e3a88b9.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v1\protected_images-2fdc6f85260105ac58908b513a09aa9c124e2007c6d4cbe63b3778f16e3a88b9.css
+Content Type: text/css
+
+Uri: https://static2.format.com/static/theme_api/vendor/font-awesome.min-3.0.2-3149da3014aff38a256574aa7aa1b947387efee9cdc1fb2d39e234606f231c96.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\vendor\font-awesome.min-3.0.2-3149da3014aff38a256574aa7aa1b947387efee9cdc1fb2d39e234606f231c96.css
+Content Type: text/css
+
+Uri: https://static1.format.com/static/theme_api/v2/theme_social-c985894a58f09ef7b4feca674406de2916e87cbbb58d420fff1ac15b709ac68c.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\theme_social-c985894a58f09ef7b4feca674406de2916e87cbbb58d420fff1ac15b709ac68c.css
+Content Type: text/css
+
+Uri: https://static0.format.com/static/theme_api/v2/sales/cart-71d654c3aca9efaf7d54bb83a588db177f85a55f6d10afc1ecb96de9011222ee.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\sales\cart-71d654c3aca9efaf7d54bb83a588db177f85a55f6d10afc1ecb96de9011222ee.css
+Content Type: text/css
+
+Uri: https://static0.format.com/static/theme_api/v2/client_access/client-2daddf297bf8491df25e2227c7d949480e5dbd7ec3e4d12e15cf6e5b6d2032e5.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\client_access\client-2daddf297bf8491df25e2227c7d949480e5dbd7ec3e4d12e15cf6e5b6d2032e5.css
+Content Type: text/css
+
+Uri: https://www.oprisco.com/fonts/ss-standard-v2/ss-standard.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\fonts\ss-standard-v2\ss-standard.css
+Content Type: text/css
+
+Uri: https://static2.format.com/static/theme_api/v2/client_access/client_modal-f14d6f79edf82709c0edff5f411fc64042a3c84bf7e828d3e6505d7e0ab60ff3.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\client_access\client_modal-f14d6f79edf82709c0edff5f411fc64042a3c84bf7e828d3e6505d7e0ab60ff3.css
+Content Type: text/css
+
+Uri: https://static2.format.com/static/theme_api/v2/blog_defaults-79d70c55d366b40da8280df474b120c87e1c1def50e6c75a4c54fc0ec914deeb.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\blog_defaults-79d70c55d366b40da8280df474b120c87e1c1def50e6c75a4c54fc0ec914deeb.css
+Content Type: text/css
+
+Uri: https://oprisco.format.com/stylesheet.css?v=2020-11-25T19:27:49Z
+File Name: c:\Downloaded Web Sites\www.oprisco.com\stylesheet.css
+Content Type: text/css
+
+Uri: https://static2.format.com/static/theme_api/vendor/960_simple-1-80ab8eb2695abe415bd536608db207267db1a467f2841da1c01b06c3559dd9c6.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\vendor\960_simple-1-80ab8eb2695abe415bd536608db207267db1a467f2841da1c01b06c3559dd9c6.css
+Content Type: text/css
+
+Uri: https://static1.format.com/static/_common/animation-7fc12d665fca943072e7f3c6c84d756b935958c9d92f8a940de7dcfd69c2b253.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\_common\animation-7fc12d665fca943072e7f3c6c84d756b935958c9d92f8a940de7dcfd69c2b253.css
+Content Type: text/css
+
+Uri: https://static0.format.com/static/theme_api/v2/blog-adee6ecd43756a0c67bcc47ce993d1cb89cfe67c24efa5d227588acc9f00692f.css
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\blog-adee6ecd43756a0c67bcc47ce993d1cb89cfe67c24efa5d227588acc9f00692f.css
+Content Type: text/css
+
+Uri: https://www.instagram.com/stories/highlights/18125536282142425/
+File Name: c:\Downloaded Web Sites\www.oprisco.com\stories\highlights\18125536282142425\index.htm
+Content Type: text/html
+
+Uri: https://www.oprisco.com/workshops
+File Name: c:\Downloaded Web Sites\www.oprisco.com\workshops.html
+Content Type: text/html
+
+Uri: https://www.oprisco.com/buy-print
+File Name: c:\Downloaded Web Sites\www.oprisco.com\buy-print.html
+Content Type: text/html
+
+Uri: https://www.oprisco.com/contact
+File Name: c:\Downloaded Web Sites\www.oprisco.com\contact.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/opriscophotography
+File Name: c:\Downloaded Web Sites\www.oprisco.com\opriscophotography.html
+Content Type: text/html
+
+Uri: https://www.oprisco.com/portfolio
+File Name: c:\Downloaded Web Sites\www.oprisco.com\portfolio.html
+Content Type: text/html
+
+Uri: https://www.format.com/l/your_new_portfolio?referrer=https:%2F%2Foprisco.format.com&utm_medium=user-site&utm_source=123576
+File Name: c:\Downloaded Web Sites\www.oprisco.com\l\your_new_portfolio.html
+Content Type: text/html
+
+Uri: https://static2.format.com/static/theme_api/v2/turbolinks-2.5.3-format-04a8b5b37c0a98cc713e76c4e4c586e184b192f941c389d1a7b7ac90b469d375.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\turbolinks-2.5.3-format-04a8b5b37c0a98cc713e76c4e4c586e184b192f941c389d1a7b7ac90b469d375.js
+Content Type: application/x-javascript
+
+Uri: https://www.google-analytics.com/ga.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\ga.js
+Content Type: text/javascript
+
+Uri: https://use.edgefonts.net/inconsolata.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\inconsolata.js
+Content Type: text/javascript
+
+Uri: https://static0.format.com/static/theme_api/vendor/jquery-1.11.2.min-9e51421ee37900ca10a0ab924881f2fc498d4e3ea46362cfd356de8e9401a730.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\vendor\jquery-1.11.2.min-9e51421ee37900ca10a0ab924881f2fc498d4e3ea46362cfd356de8e9401a730.js
+Content Type: application/x-javascript
+
+Uri: https://static2.format.com/static/theme_api/vendor/scrollDelta-1-a3dd9cda1577a24806f10f58011d0abb0bb95829e14b333f8ff198669c28d017.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\vendor\scrollDelta-1-a3dd9cda1577a24806f10f58011d0abb0bb95829e14b333f8ff198669c28d017.js
+Content Type: application/x-javascript
+
+Uri: https://static1.format.com/static/theme_api/vendor/jquery.fitvid-1.1-2272f968d8d9707ba886f25a2612d3bc635e1b360b3df8b4a2348db71b4de9f7.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\vendor\jquery.fitvid-1.1-2272f968d8d9707ba886f25a2612d3bc635e1b360b3df8b4a2348db71b4de9f7.js
+Content Type: application/x-javascript
+
+Uri: https://static1.format.com/static/theme_api/vendor/viewport-units-buggyfill-0.5.4-274b5726efc29f08c08e10d6df26bc55d67272bb8ff85f6c3505a587ea5a6063.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\vendor\viewport-units-buggyfill-0.5.4-274b5726efc29f08c08e10d6df26bc55d67272bb8ff85f6c3505a587ea5a6063.js
+Content Type: application/x-javascript
+
+Uri: https://static2.format.com/static/theme_api/vendor/picturefill-2.3.1.min-c8c5a2e86449b438074dedad0a6700e3322882895eec0ae28d4d994c78189880.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\vendor\picturefill-2.3.1.min-c8c5a2e86449b438074dedad0a6700e3322882895eec0ae28d4d994c78189880.js
+Content Type: application/x-javascript
+
+Uri: https://bucket0.format-assets.com/theme_versions/4951633/assets/js/lazysizes.min.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\theme_versions\4951633\assets\js\lazysizes.min.js
+Content Type: application/javascript
+
+Uri: https://static0.format.com/static/theme_api/vendor/masonry.pkgd-3.3.1.min-78092daee5c98696cb4aeaeedc8c1b6383e99c3b48031ccc7eb1321bf3881f36.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\vendor\masonry.pkgd-3.3.1.min-78092daee5c98696cb4aeaeedc8c1b6383e99c3b48031ccc7eb1321bf3881f36.js
+Content Type: application/x-javascript
+
+Uri: https://static2.format.com/static/theme_api/vendor/jquery.mousewheel-3.1.13.min-e89c65cf5132c3a9647e948b5e1764d9619d8431a7850f78077922e42c7e204a.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\vendor\jquery.mousewheel-3.1.13.min-e89c65cf5132c3a9647e948b5e1764d9619d8431a7850f78077922e42c7e204a.js
+Content Type: application/x-javascript
+
+Uri: https://static2.format.com/static/theme_api/vendor/jquery.jscrollpane-2.0.22.min-9f8b45d41c332b7f67d9bfacf3f68f3d5fabe12cec4c0dfb1cc4319b2c4d486f.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\vendor\jquery.jscrollpane-2.0.22.min-9f8b45d41c332b7f67d9bfacf3f68f3d5fabe12cec4c0dfb1cc4319b2c4d486f.js
+Content Type: application/x-javascript
+
+Uri: https://static2.format.com/static/theme_api/vendor/fastclick-25549e08402ff73afa15069520f9c5459dabd3fdcea4a86df505d56233ce5717.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\vendor\fastclick-25549e08402ff73afa15069520f9c5459dabd3fdcea4a86df505d56233ce5717.js
+Content Type: application/x-javascript
+
+Uri: https://bucket0.format-assets.com/theme_versions/4951633/assets/js/jquery.flexslider-min.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\theme_versions\4951633\assets\js\jquery.flexslider-min.js
+Content Type: application/javascript
+
+Uri: https://bucket0.format-assets.com/theme_versions/4951633/assets/js/theme.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\theme_versions\4951633\assets\js\theme.js
+Content Type: application/javascript
+
+Uri: https://bucket0.format-assets.com/theme_versions/4951633/assets/js/pagination.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\theme_versions\4951633\assets\js\pagination.js
+Content Type: application/javascript
+
+Uri: https://bucket0.format-assets.com/theme_versions/4951633/assets/js/zoomlevel.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\theme_versions\4951633\assets\js\zoomlevel.js
+Content Type: application/javascript
+
+Uri: https://format-com-cld-res.cloudinary.com/image/private/s--7_j5puvu--/e_trim:16,fl_keep_iptc.progressive.apng/123576-39816433-logo102.png
+File Name: c:\Downloaded Web Sites\www.oprisco.com\image\private\s--7_j5puvu--\e_trim16,fl_keep_iptc.progressive.apng\123576-39816433-logo102.png
+Content Type: image/png
+
+Uri: https://static2.format.com/static/theme_api/v2/4ormat-7953facfd4e95c07a2bb00d6f89291bb3a4697663ff0b39a7026906dfb91fcd3.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\4ormat-7953facfd4e95c07a2bb00d6f89291bb3a4697663ff0b39a7026906dfb91fcd3.js
+Content Type: application/x-javascript
+
+Uri: https://static1.format.com/static/theme_api/v2/sales/commons.bundle-688ebd7dcaba2f8a19ee2e707ba0603028c5ecc92a0ac3a39224c7de5098681b.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\sales\commons.bundle-688ebd7dcaba2f8a19ee2e707ba0603028c5ecc92a0ac3a39224c7de5098681b.js
+Content Type: application/x-javascript
+
+Uri: https://static1.format.com/static/theme_api/v2/sales/cart.bundle-cdcfbaaafbd8cfc80c99463ed0888abf6cabfc643cac421cb07f218d9c2bff7d.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\sales\cart.bundle-cdcfbaaafbd8cfc80c99463ed0888abf6cabfc643cac421cb07f218d9c2bff7d.js
+Content Type: application/x-javascript
+
+Uri: https://static1.format.com/static/theme_api/v2/sales/sales-8fbc74af4b16b840d3c1766e97360735507a75201f08f6d67eddc69cb7d5d4f0.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\sales\sales-8fbc74af4b16b840d3c1766e97360735507a75201f08f6d67eddc69cb7d5d4f0.js
+Content Type: application/x-javascript
+
+Uri: https://www.oprisco.com/fonts/ss-standard-v2/ss-standard.eot
+File Name: c:\Downloaded Web Sites\www.oprisco.com\fonts\ss-standard-v2\ss-standard.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.oprisco.com/fonts/ss-standard-v2/ss-standard.eot?
+File Name: c:\Downloaded Web Sites\www.oprisco.com\fonts\ss-standard-v2\ss-standard-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.oprisco.com/fonts/ss-standard-v2/ss-standard.woff
+File Name: c:\Downloaded Web Sites\www.oprisco.com\fonts\ss-standard-v2\ss-standard.woff
+Content Type: application/font-woff
+
+Uri: https://www.oprisco.com/fonts/ss-standard-v2/ss-standard.ttf
+File Name: c:\Downloaded Web Sites\www.oprisco.com\fonts\ss-standard-v2\ss-standard.ttf
+Content Type: font/ttf
+
+Uri: https://www.oprisco.com/fonts/ss-standard-v2/ss-standard.svg
+File Name: c:\Downloaded Web Sites\www.oprisco.com\fonts\ss-standard-v2\ss-standard.svg
+Content Type: image/svg+xml
+
+Uri: https://www.facebook.com/Zlodziejewo/
+File Name: c:\Downloaded Web Sites\www.oprisco.com\Zlodziejewo\index.htm
+Content Type: text/html
+
+Uri: https://static1.format.com/static/theme_api/v2/sales/cart.bundle-b241d99e7493b99600c6d7b111b745de163ef6c7f04b733e6c3ceef72cc92366.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v2\sales\cart.bundle-b241d99e7493b99600c6d7b111b745de163ef6c7f04b733e6c3ceef72cc92366.js
+Content Type: application/x-javascript
+
+Uri: https://static2.format.com/static/content_page-cb6ded06e09003521905eb4c11201b36f3415832b4053c9024604d50314dbfd7.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\content_page-cb6ded06e09003521905eb4c11201b36f3415832b4053c9024604d50314dbfd7.js
+Content Type: application/x-javascript
+
+Uri: https://static1.format.com/static/theme_api/v1/custom_pages/custom_pages-2f77bcbc0a2c70ec9e062ba681daa1462d88c6ea4c437317b1f59635927db3e1.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\theme_api\v1\custom_pages\custom_pages-2f77bcbc0a2c70ec9e062ba681daa1462d88c6ea4c437317b1f59635927db3e1.js
+Content Type: application/x-javascript
+
+Uri: https://www.instagram.com/oprisco/
+File Name: c:\Downloaded Web Sites\www.oprisco.com\oprisco\index.htm
+Content Type: text/html
+
+Uri: https://format-com-cld-res.cloudinary.com/image/private/s--IaCLwWgq--/c_limit,g_center,h_498,w_480/fl_keep_iptc.progressive,q_95/v1/12ac84ec36708a3243bc635eb0fe240e/300px.jpg
+File Name: c:\Downloaded Web Sites\www.oprisco.com\image\private\s--IaCLwWgq--\c_limit,g_center,h_498,w_480\fl_keep_iptc.progressive,q_95\v1\12ac84ec36708a3243bc635eb0fe240e\300px.jpg
+Content Type: image/jpeg
+
+Uri: https://static1.format.com/static/_common/colour_adjustments-52ee9f811833299f08e3b654ee00e0d17be5a82b7d061789adae842047a71a2b.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\_common\colour_adjustments-52ee9f811833299f08e3b654ee00e0d17be5a82b7d061789adae842047a71a2b.js
+Content Type: application/x-javascript
+
+Uri: https://static1.format.com/static/_common/instagram-60422611b60059ea138aaa25971716855ea918533fe5bf5b99d64bb6ce712419.js
+File Name: c:\Downloaded Web Sites\www.oprisco.com\static\_common\instagram-60422611b60059ea138aaa25971716855ea918533fe5bf5b99d64bb6ce712419.js
+Content Type: application/x-javascript
+
+Uri: https://500px.com/p/oprisco?
+File Name: c:\Downloaded Web Sites\www.oprisco.com\p\oprisco.html
+Content Type: text/html
+
+Uri: https://www.deviantart.com/oprisco
+File Name: c:\Downloaded Web Sites\www.oprisco.com\oprisco.html
+Content Type: text/html
+
+Uri: https://www.flickr.com/photos/oprisco/
+File Name: c:\Downloaded Web Sites\www.oprisco.com\photos\oprisco\index.htm
+Content Type: text/html
+
+Uri: https://www.behance.net/oprisco
+File Name: c:\Downloaded Web Sites\www.oprisco.com\oprisco-1.html
+Content Type: text/html
+
