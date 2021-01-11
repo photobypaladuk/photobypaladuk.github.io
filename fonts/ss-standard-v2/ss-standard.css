@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 
 /*
 * Symbolset
@@ -13,7 +13,7 @@
 @font-face {
   font-family: "SSStandard";
   src: url('ss-standard.eot');
-  src: url('ss-standard.eot%3F') format('embedded-opentype'),
+  src: url('ss-standard-1.eot') format('embedded-opentype'),
        url('ss-standard.woff') format('woff'),
        url('ss-standard.ttf')  format('truetype'),
        url('ss-standard.svg') format('svg');
